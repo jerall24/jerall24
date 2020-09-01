@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<!-- Above is an article to creating a cool GitHub profile -->
+
+<!-- Actions: https://github.com/marketplace/actions/blog-post-workflow -->
+
+[![Header](https://raw.githubusercontent.com/jerall24/jerall24/master/assets/github_banner.png "Header")](https://jeremieallard.com/)
 
 <!--
 **jerall24/jerall24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
