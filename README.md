@@ -14,10 +14,11 @@ My name is Jérémie Allard (he/him/his <img height="17" src="https://raw.github
 I am interested in Human-Technology Interactions, Extended Reality, and the Internet of Things, hoping to combine these interests to improve our quality of life, while promoting environmental sustainability.
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-
+<p align='center'>
 <a href="https://github.com/jerall24/jerall24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerall24&count_private=true&hide=html,javascript&theme=algolia" />
 </a>
 <a href="https://github.com/jerall24/jerall24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerall24&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="Jérémie's GitHub Stats" />
 </a>
+</p>
