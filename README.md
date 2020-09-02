@@ -5,9 +5,15 @@
 
 [![Header](https://raw.githubusercontent.com/jerall24/jerall24/master/assets/github_banner.png?token=AJHARDC5ZX2CSVLM34GLUJK7K5X6O "Header")](https://jeremieallard.com/)
 <h1 align='center'> Hey, welcome. <img src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/wave.gif" width="30px"></h1>
+
+<!-- Social media/Contact me -->
+
 <p align='center'>
  <a href="https://jeremieallard.com"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-wordpress.png"></a><a href="https://www.linkedin.com/in/jeremiea/"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-linkedin.png"></a><a href="https://medium.com/@jerall24"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-medium.png"></a>
 </p>
+
+<!-- Languages and skills -->
+<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p>
 
 My name is Jérémie Allard (he/him/his <img height="17" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/male_sign.png">). I'm originally from Montreal and have been living in the Philadelphia area most of my life. I'm finishing up my Master of Computer and Information Technology at the University of Pennsylvania in December and am looking for my next opportunity.
 
