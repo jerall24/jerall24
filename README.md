@@ -6,7 +6,7 @@
 [![Header](https://raw.githubusercontent.com/jerall24/jerall24/master/assets/github_banner.png?token=AJHARDC5ZX2CSVLM34GLUJK7K5X6O "Header")](https://jeremieallard.com/)
 <h1 align='center'> Hey, welcome. <img src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/wave.gif" width="30px"></h1>
 <p align='center'>
- <a href="https://jeremieallard.com"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-wordpress.png"></a><a href="https://www.linkedin.com/in/jeremiea/"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-linkedin.png"></a>
+ <a href="https://jeremieallard.com"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-wordpress.png"></a><a href="https://www.linkedin.com/in/jeremiea/"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-linkedin.png"></a><a href="https://medium.com/@jerall24"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-medium.png"></a>
 </p>
 
 My name is Jérémie Allard (he/him/his <img height="17" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/male_sign.png">). I'm originally from Montreal and have been living in the Philadelphia area most of my life. I'm finishing up my Master of Computer and Information Technology at the University of Pennsylvania in December and am looking for my next opportunity.
