@@ -14,7 +14,7 @@ I am interested in Human-Technology Interactions, Extended Reality, and the Inte
 
 ## :writing_hand: Contact Me
 <p align="left">
- <a href="https://jeremieallard.com"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-wordpress.png"></a><a href="https://www.linkedin.com/in/jeremiea/"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-linkedin.png"></a><a href="https://medium.com/@jerall24"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-medium.png"></a>
+ <a href="https://jeremieallard.com"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-wordpress.png"></a><a href="https://www.linkedin.com/in/jerall24/"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-linkedin.png"></a><a href="https://medium.com/@jerall24"><img height="50" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/icons8-medium.png"></a>
 </p>
 
 ## :wrench: Languages and Technologies
