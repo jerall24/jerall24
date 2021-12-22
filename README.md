@@ -3,10 +3,10 @@
 
 <!-- Actions: https://github.com/marketplace/actions/blog-post-workflow -->
 
-[![Header](https://raw.githubusercontent.com/jerall24/jerall24/master/assets/github_banner.png?token=AJHARDC5ZX2CSVLM34GLUJK7K5X6O "Header")](https://jeremieallard.com/)
+<!-- [![Header](https://raw.githubusercontent.com/jerall24/jerall24/master/assets/github_banner.png?token=AJHARDC5ZX2CSVLM34GLUJK7K5X6O "Header")](https://jeremieallard.com/) -->
 <h1 align='left'> Hey, welcome. <img src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/wave.gif" width="30px"></h1>
 
-My name is Jérémie Allard (he/him/his <img height="17" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/male_sign.png">). I'm originally from Montreal and have been living in the Philadelphia area most of my life. I finished up my Master of Computer and Information Technology at the University of Pennsylvania in December and am currently working as a Data Analyst. I like to code in my spare time. 
+My name is Jérémie Allard (he/him/his <img height="17" src="https://raw.githubusercontent.com/jerall24/jerall24/master/assets/male_sign.png">). I finished up my Master of Computer and Information Technology at the University of Pennsylvania in December and am currently working as a Data Analyst and am looking to get into software/data engineering.
 
 <!-- Social media/Contact me -->
 
